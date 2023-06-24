@@ -1,0 +1,11 @@
+SQL types command
+
+1. DDL(drop,truncate ,create,rename,Alter)
+
+2. DML(Insert ,Delete,Update)
+
+3.DQL (Select)
+
+4.TCL(Rollback,Savepoint,Commit)
+
+5.DCL(Grant,Revoke)
