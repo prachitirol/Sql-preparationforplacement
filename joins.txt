@@ -1,6 +1,7 @@
 Select * from table_1 JOIN table_2 ON table_1.commontable = table_2.commontable
 
 
-example 
+example of joins
+ 
   Select * from customer JOIN orders ON customer.cid
 = orders.cid;
