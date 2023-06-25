@@ -1,1 +1,2 @@
+This query instruct to the main table can be specify the queries
 Select * from Author_id;
