@@ -1,3 +1,6 @@
+Example of the natural joins
+
+
 Select * from Customer JOINS order on commoncolumnname for both the table;
 
 Natural joins is also equal to the inner join.
