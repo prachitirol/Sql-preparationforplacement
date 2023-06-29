@@ -1,4 +1,4 @@
-Right joins is also known as outer right joins
+* Right joins is also known as outer right joins
 Syntax-
 Select * from table_1 Right JOIN table_2 ON table_1.commontable = table_2.commontable
 
