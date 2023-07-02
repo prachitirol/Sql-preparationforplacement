@@ -3,6 +3,6 @@ Syntax-
 Select * from table_1 Right JOIN table_2 ON table_1.commontable = table_2.commontable
 
 
-example of right joins
+^example of right joins
   Select * from customer Right JOIN orders ON customer.cid
 = orders.cid;
