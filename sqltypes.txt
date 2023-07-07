@@ -1,4 +1,4 @@
-SQL types command defined :
+**SQL types command defined :
 
 1. DDL(drop,truncate ,create,rename,Alter)
 
