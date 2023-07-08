@@ -9,3 +9,5 @@
 4.TCL(Rollback,Savepoint,Commit)
 
 5.DCL(Grant,Revoke)
+
+some command are defined by the query
