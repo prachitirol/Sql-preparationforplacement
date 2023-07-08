@@ -1,4 +1,4 @@
-example of query that have to defined
+**example of query that have to defined
 :
 
 select *from amount ;
